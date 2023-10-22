@@ -187,10 +187,7 @@ The AUC values provide a quantitative measure of the models' discriminative powe
 ![image](https://github.com/EngCS254/dsc-phase-3-project-v2-3/assets/139503182/4ba64735-5526-4bd4-a195-23a2b38f859b)
 
 
-### 6. Deployment 
-The XGBoost model can be deployed in a real-time or batch prediction system to proactively identify and retain at-risk customers.
-
-### 7. Conclusion 
+### 6. Conclusion 
 
 Following our thorough analysis, the key takeaways are:
 
