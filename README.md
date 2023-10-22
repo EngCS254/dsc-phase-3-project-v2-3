@@ -1,5 +1,5 @@
 
-# Phase 3 Project Description
+# SYRIATEL CUSTOMER CHURN
 
 Congratulations! You've made it through another _intense_ module, and now you're ready to show off your newfound Machine Learning skills!
 
