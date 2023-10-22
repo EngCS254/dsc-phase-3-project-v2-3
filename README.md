@@ -182,11 +182,24 @@ XGBoost emerged to be the top-performing model with an accuracy of 95%.
 
 The AUC values provide a quantitative measure of the models' discriminative power. A higher AUC indicates a better model for this classification task. Based on the AUC values, the XGBoost model stands out as the best performer, followed closely by the Random Forest model, demonstrating their strong classification capabilities.
 
+## **Feature Importance**
+
+![image](https://github.com/EngCS254/dsc-phase-3-project-v2-3/assets/139503182/4ba64735-5526-4bd4-a195-23a2b38f859b)
+
 
 ### 7. Deployment 
 The XGBoost model can be deployed in a real-time or batch prediction system to proactively identify and retain at-risk customers.
 
 ### 8. Conclusion 
-The project identified the significance of features like "international_plan_yes" and "customer_service_calls" in predicting churn. The XGBoost model outperformed others, offering valuable insights for informed decision-making.
+
+Following our thorough analysis, the key takeaways are:
+
+**Data Prep & Class Balance**: Effective data preprocessing, one-hot encoding, and SMOTE class balancing are essential for accurate churn predictions.
+
+**Model Top Performer**: XGBoost, with 95% accuracy, excelled in predicting churn effectively.
+
+**Crucial Features**: Five key features include "international_plan_yes," "customer_service_calls," "number_vmail_messages," "total_intl_calls," and "total_day_minutes."
+
+In summary, we recommend using XGBoost to predict customer churn, focusing on these key features for improved customer retention.
 
 ---
