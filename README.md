@@ -47,7 +47,7 @@ This analysis aims to:
 
 ---
 
-### 2. Business Understanding 
+### 1. Business Understanding 
 **Objective:** Predict customer churn and develop strategies for customer retention.
 
 **Key Business Problems:**
@@ -57,19 +57,19 @@ This analysis aims to:
 - Pricing Strategy Optimization: Balance pricing to minimize churn while maximizing revenue.
 - Marketing Effectiveness: Assess marketing campaigns for improved customer retention and acquisition.
 
-### 3. Data Understanding 
+### 2. Data Understanding 
 **Data Source:** The dataset contains customer-related information, including usage, subscriptions, and churn status.
 
 **Data Exploration:** We explored the dataset to understand its features and distribution.
 
-### 4. Data Preparation 
+### 3. Data Preparation 
 **Data Cleaning:** We handled missing values and ensured data consistency.
 
 **Feature Engineering:** We created new features and encoded categorical variables.
 
 **Balancing Class Imbalance:** To address class imbalance, we applied the SMOTE technique.
 
-### 5. Modeling 
+### 4. Modeling 
 **Model Selection:** We explored various models, including Logistic Regression, Random Forest, XGBoost, SVM, and KNN.
 
 **- Logistic Regression Model**
@@ -171,7 +171,7 @@ weighted avg       0.86      0.80      0.82       667
 
 **Model Training:** Models were trained using resampled data.
 
-### 6. Evaluation 
+### 5. Evaluation 
 **Performance Metrics:** We evaluated models based on accuracy, precision, recall, F1-score, and AUC-ROC.
 
 XGBoost emerged to be the top-performing model with an accuracy of 95%.
@@ -187,10 +187,10 @@ The AUC values provide a quantitative measure of the models' discriminative powe
 ![image](https://github.com/EngCS254/dsc-phase-3-project-v2-3/assets/139503182/4ba64735-5526-4bd4-a195-23a2b38f859b)
 
 
-### 7. Deployment 
+### 6. Deployment 
 The XGBoost model can be deployed in a real-time or batch prediction system to proactively identify and retain at-risk customers.
 
-### 8. Conclusion 
+### 7. Conclusion 
 
 Following our thorough analysis, the key takeaways are:
 
@@ -204,7 +204,7 @@ In summary, we recommend using XGBoost to predict customer churn, focusing on th
 
 ---
 
-# Recommendations
+### 8. Recommendations
 
 Based on the XGBoost model analysis and the top features, we suggest:
 
