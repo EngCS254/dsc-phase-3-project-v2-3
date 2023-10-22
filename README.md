@@ -75,6 +75,7 @@ This analysis aims to:
 **Model Selection:** We explored various models, including Logistic Regression, Random Forest, XGBoost, SVM, and KNN.
 
 **- Logistic Regression Model**
+
 ![image](https://github.com/EngCS254/dsc-phase-3-project-v2-3/assets/139503182/0364b203-8f0f-4dd2-9a0d-4b55dd8ae97f)
 
 Accuracy: 0.74
@@ -91,6 +92,7 @@ Classification Report:
 weighted avg       0.87      0.74      0.78       667
 
 **- Random Forest classifier**
+
 ![image](https://github.com/EngCS254/dsc-phase-3-project-v2-3/assets/139503182/0a039c71-ecae-4785-9887-2a391857a8e9)
 
 Random Forest Accuracy: 0.94
@@ -107,6 +109,7 @@ Random Forest Classification Report:
 weighted avg       0.94      0.94      0.94       667
 
 **- XGBoost**
+
 ![image](https://github.com/EngCS254/dsc-phase-3-project-v2-3/assets/139503182/84f52158-8b9b-4715-baa5-11a8f03824bf)
 
 XGBoost Accuracy: 0.95
@@ -123,6 +126,7 @@ XGBoost Classification Report:
 weighted avg       0.95      0.95      0.95       667
 
 **- Support Vector Machine (SVM)**
+
 ![image](https://github.com/EngCS254/dsc-phase-3-project-v2-3/assets/139503182/39616752-9662-46a0-8e46-6ea13221de8a)
 
 SVM Accuracy: 0.73
@@ -140,6 +144,7 @@ weighted avg       0.87      0.73      0.77       667
 
 
 **- K-Nearest Neighbors (KNN)**
+
 ![image](https://github.com/EngCS254/dsc-phase-3-project-v2-3/assets/139503182/ccd60083-5d5f-4731-8592-96ea5c425972)
 
 KNN Accuracy: 0.80
