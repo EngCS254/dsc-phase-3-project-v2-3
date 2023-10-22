@@ -204,10 +204,6 @@ In summary, we recommend using XGBoost to predict customer churn, focusing on th
 
 ---
 
-# RECOMMENDATIONS
-
-Certainly, here's a more concise version for your readme:
-
 # Recommendations
 
 Based on the XGBoost model analysis and the top features, we suggest:
