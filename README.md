@@ -1,8 +1,6 @@
 
 # SYRIATEL CUSTOMER CHURN
 
-Author: Caleb Ochieng
-
 ![awesome](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*47xx1oXuebvYwZeB0OutuA.png)
 
 Welcome to the "SYRIATEL CUSTOMER CHURN" project! This repository hosts a comprehensive analysis of customer churn for Syriatel, a fictitious telecommunications company. Customer churn, the phenomenon where subscribers switch from one service provider to another, is a critical challenge for telecom businesses worldwide. This project delves into understanding the factors contributing to customer churn and aims to provide insights and strategies for retaining valuable customers.
