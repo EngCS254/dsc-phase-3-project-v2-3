@@ -178,6 +178,12 @@ weighted avg       0.86      0.80      0.82       667
 
 XGBoost emerged to be the top-performing model with an accuracy of 95%.
 
+**ROC Curve Analysis**
+![image](https://github.com/EngCS254/dsc-phase-3-project-v2-3/assets/139503182/9d82f50b-f5e8-4d3c-8c56-6d6b9977b4f1)
+
+The AUC values provide a quantitative measure of the models' discriminative power. A higher AUC indicates a better model for this classification task. Based on the AUC values, the XGBoost model stands out as the best performer, followed closely by the Random Forest model, demonstrating their strong classification capabilities.
+
+
 ### 7. Deployment 
 The XGBoost model can be deployed in a real-time or batch prediction system to proactively identify and retain at-risk customers.
 
