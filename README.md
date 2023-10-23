@@ -17,7 +17,6 @@ In this repository, we explore various aspects related to customer churn predict
 
 **Recommendations**: Based on the analysis, we've made actionable recommendations for addressing churn, emphasizing the significance of factors like international plans and customer service calls.
 
-Certainly, here's a more concise version:
 
 ---
 
